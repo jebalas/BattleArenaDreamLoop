@@ -6,5 +6,5 @@
 # Player dies when stamina reaches 0 or panic reaches 20.
 # Enemy dies when hit points reach 0
 # If an enemy dies, a new enemy enters arena. 
-# Each round, the battle result is determined based on roll of a 6 sided die
-# Written in C#
+Each round, the battle result is determined based on roll of a 6 sided die
+Written in C#
